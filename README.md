@@ -5,9 +5,8 @@
 2. find pages containing tables and update the list in 2_table_page_numbers folder
 
 ## Software Requirement
-PyPDF2 (https://pypi.python.org/pypi/PyPDF2) - need to be installed (pip install PyPDF2)
-
-Tabula (http://tabula.technology/) - included (needs Java to be installed)
+1. PyPDF2 (https://pypi.python.org/pypi/PyPDF2) - need to be installed (pip install PyPDF2)
+2. Tabula (http://tabula.technology/) - included (needs Java to be installed)
 
 ## Run 
 ``` 
