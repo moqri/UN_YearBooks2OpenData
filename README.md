@@ -1,1 +1,3 @@
-# UN_YearBooks2OpenData
+# UN YearBooks to OpenData
+## Run
+``` ./run.sh
